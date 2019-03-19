@@ -1,0 +1,4 @@
+# let's ignore some uncessary files to make it clean
+__pycache__/*
+venv/*
+.idea/*
